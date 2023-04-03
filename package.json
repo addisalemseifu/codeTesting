@@ -1,0 +1,15 @@
+{
+  "name": "codetesting",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
